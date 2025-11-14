@@ -22,7 +22,7 @@ int main() {
     sim.agregarObstaculo(Obstaculo(150, 150, 40));  // Para interacción de P2
 
     // Correr simulación
-    sim.simular(10, 0.05);
+    sim.simular(15, 0.05);
 
     return 0;
 }

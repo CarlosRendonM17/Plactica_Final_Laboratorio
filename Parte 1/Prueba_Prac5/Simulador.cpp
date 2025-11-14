@@ -4,7 +4,7 @@
 Simulador::Simulador(double ancho_, double alto_, double coef_rest)
     : ancho(ancho_), alto(alto_), c(coef_rest)
 {
-    archivo.open("C:/Users/Andres Felipe/OneDrive/Escritorio/informatica II Andres Lafaurie/Practicafinal_lab-main/Parte1/PRUEBAS/Prueba_Prac5/salida.txt");
+    archivo.open("C:/Users/Andres Felipe/OneDrive/Escritorio/informatica II Andres Lafaurie/INFORMATICA 2/Practica 5-1/Plactica_Final_Laboratorio/Parte 1/Prueba_Prac5/salida.txt");
 }
 
 void Simulador::agregarParticula(const Particula& p) {

@@ -1072,3 +1072,506 @@ Particula (246.6, 121.77)
 Particula (234, 32.4148)
 t=9.95 -> Choque con pared vertical
 Particula (15.2114, 248.268)
+
+Tiempo 10
+Particula (248.7, 118.625)
+Particula (231, 31.2457)
+Particula (16.7114, 246.835)
+
+Tiempo 10.05
+Particula (250.8, 115.502)
+Particula (228, 30.0991)
+Particula (18.2114, 245.423)
+
+Tiempo 10.1
+Particula (252.9, 112.401)
+Particula (225, 28.975)
+Particula (19.7113, 244.034)
+
+Tiempo 10.15
+Particula (255, 109.323)
+Particula (222, 27.8734)
+Particula (21.2113, 242.668)
+
+Tiempo 10.2
+Particula (257.1, 106.268)
+Particula (219, 26.7943)
+Particula (22.7113, 241.324)
+
+Tiempo 10.25
+Particula (259.2, 103.235)
+Particula (216, 25.7377)
+Particula (24.2113, 240.002)
+
+Tiempo 10.3
+Particula (261.3, 100.224)
+Particula (213, 24.7036)
+Particula (25.7113, 238.703)
+
+Tiempo 10.35
+Particula (263.4, 97.236)
+Particula (210, 23.692)
+Particula (27.2113, 237.427)
+
+Tiempo 10.4
+Particula (265.5, 94.2705)
+Particula (207, 22.7029)
+Particula (28.7112, 236.173)
+
+Tiempo 10.45
+Particula (267.6, 91.3275)
+Particula (204, 21.7363)
+Particula (30.2112, 234.942)
+
+Tiempo 10.5
+Particula (269.7, 88.407)
+Particula (201, 20.7922)
+Particula (31.7112, 233.733)
+
+Tiempo 10.55
+Particula (271.8, 85.509)
+Particula (198, 19.8706)
+Particula (33.2112, 232.546)
+
+Tiempo 10.6
+Particula (273.9, 82.6335)
+Particula (195, 18.9715)
+Particula (34.7112, 231.382)
+
+Tiempo 10.65
+Particula (276, 79.7805)
+Particula (192, 18.0949)
+Particula (36.2111, 230.241)
+
+Tiempo 10.7
+Particula (278.1, 76.95)
+Particula (189, 17.2408)
+Particula (37.7111, 229.122)
+
+Tiempo 10.75
+Particula (280.2, 74.142)
+Particula (186, 16.4092)
+Particula (39.2111, 228.025)
+
+Tiempo 10.8
+Particula (282.3, 71.3565)
+Particula (183, 15.6001)
+Particula (40.7111, 226.952)
+
+Tiempo 10.85
+Particula (284.4, 68.5935)
+Particula (180, 14.8135)
+Particula (42.2111, 225.9)
+
+Tiempo 10.9
+Particula (286.5, 65.853)
+Particula (177, 14.0494)
+Particula (43.711, 224.871)
+
+Tiempo 10.95
+Particula (288.6, 63.135)
+Particula (174, 13.3078)
+Particula (45.211, 223.865)
+
+Tiempo 11
+Particula (290.7, 60.4395)
+Particula (171, 12.5887)
+Particula (46.711, 222.881)
+
+Tiempo 11.05
+Particula (292.8, 57.7665)
+Particula (168, 11.8921)
+Particula (48.211, 221.919)
+
+Tiempo 11.1
+Particula (294.9, 55.116)
+Particula (165, 11.218)
+Particula (49.711, 220.98)
+
+Tiempo 11.15
+Particula (297, 52.488)
+Particula (162, 10.5664)
+Particula (51.211, 220.064)
+
+Tiempo 11.2
+Particula (299.1, 49.8825)
+t=11.2 -> Choque con pared horizontal
+Particula (159, 9.9373)
+Particula (52.7109, 219.17)
+
+Tiempo 11.25
+Particula (301.2, 47.2995)
+Particula (156, 10.5889)
+Particula (54.2109, 218.299)
+
+Tiempo 11.3
+Particula (303.3, 44.739)
+Particula (153, 11.263)
+Particula (55.7109, 217.45)
+
+Tiempo 11.35
+Particula (305.4, 42.201)
+Particula (150, 11.9596)
+Particula (57.2109, 216.623)
+
+Tiempo 11.4
+Particula (307.5, 39.6855)
+Particula (147, 12.6787)
+Particula (58.7109, 215.819)
+
+Tiempo 11.45
+Particula (309.6, 37.1925)
+Particula (144, 13.4203)
+Particula (60.2108, 215.038)
+
+Tiempo 11.5
+Particula (311.7, 34.722)
+Particula (141, 14.1844)
+Particula (61.7108, 214.279)
+
+Tiempo 11.55
+Particula (313.8, 32.274)
+Particula (138, 14.971)
+Particula (63.2108, 213.542)
+
+Tiempo 11.6
+Particula (315.9, 29.8485)
+Particula (135, 15.7801)
+Particula (64.7108, 212.828)
+
+Tiempo 11.65
+Particula (318, 27.4455)
+Particula (132, 16.6117)
+Particula (66.2108, 212.137)
+
+Tiempo 11.7
+Particula (320.1, 25.065)
+Particula (129, 17.4658)
+Particula (67.7108, 211.468)
+
+Tiempo 11.75
+Particula (322.2, 22.707)
+Particula (126, 18.3424)
+Particula (69.2107, 210.822)
+
+Tiempo 11.8
+Particula (324.3, 20.3715)
+Particula (123, 19.2415)
+Particula (70.7107, 210.198)
+
+Tiempo 11.85
+Particula (326.4, 18.0585)
+Particula (120, 20.1631)
+Particula (72.2107, 209.596)
+
+Tiempo 11.9
+Particula (328.5, 15.768)
+Particula (117, 21.1072)
+Particula (73.7107, 209.017)
+
+Tiempo 11.95
+Particula (330.6, 13.5)
+Particula (114, 22.0738)
+Particula (75.2107, 208.461)
+
+Tiempo 12
+Particula (332.7, 11.2545)
+Particula (111, 23.0629)
+Particula (76.7106, 207.927)
+
+Tiempo 12.05
+t=12.05 -> Choque con pared horizontal
+Particula (334.8, 9.0315)
+Particula (108, 24.0745)
+Particula (78.2106, 207.416)
+
+Tiempo 12.1
+Particula (336.9, 11.277)
+Particula (105, 25.1086)
+Particula (79.7106, 206.927)
+
+Tiempo 12.15
+Particula (339, 13.545)
+Particula (102, 26.1652)
+Particula (81.2106, 206.46)
+
+Tiempo 12.2
+Particula (341.1, 15.8355)
+Particula (99, 27.2443)
+Particula (82.7106, 206.016)
+
+Tiempo 12.25
+Particula (343.2, 18.1485)
+Particula (96, 28.3459)
+Particula (84.2106, 205.595)
+
+Tiempo 12.3
+Particula (345.3, 20.484)
+Particula (93, 29.47)
+Particula (85.7105, 205.196)
+
+Tiempo 12.35
+Particula (347.4, 22.842)
+Particula (90, 30.6166)
+Particula (87.2105, 204.819)
+
+Tiempo 12.4
+Particula (349.5, 25.2225)
+Particula (87, 31.7857)
+Particula (88.7105, 204.465)
+
+Tiempo 12.45
+Particula (351.6, 27.6255)
+Particula (84, 32.9773)
+Particula (90.2105, 204.134)
+
+Tiempo 12.5
+Particula (353.7, 30.051)
+Particula (81, 34.1914)
+Particula (91.7105, 203.825)
+
+Tiempo 12.55
+Particula (355.8, 32.499)
+Particula (78, 35.428)
+Particula (93.2104, 203.539)
+
+Tiempo 12.6
+Particula (357.9, 34.9695)
+Particula (75, 36.6871)
+Particula (94.7104, 203.275)
+
+Tiempo 12.65
+Particula (360, 37.4625)
+Particula (72, 37.9687)
+Particula (96.2104, 203.033)
+
+Tiempo 12.7
+Particula (362.1, 39.978)
+Particula (69, 39.2728)
+Particula (97.7104, 202.814)
+
+Tiempo 12.75
+Particula (364.2, 42.516)
+Particula (66, 40.5994)
+Particula (99.2104, 202.618)
+
+Tiempo 12.8
+Particula (366.3, 45.0765)
+Particula (63, 41.9485)
+Particula (100.71, 202.444)
+
+Tiempo 12.85
+Particula (368.4, 47.6595)
+Particula (60, 43.3201)
+Particula (102.21, 202.292)
+
+Tiempo 12.9
+Particula (370.5, 50.265)
+Particula (57, 44.7142)
+Particula (103.71, 202.164)
+
+Tiempo 12.95
+Particula (372.6, 52.893)
+Particula (54, 46.1308)
+Particula (105.21, 202.057)
+
+Tiempo 13
+Particula (374.7, 55.5435)
+Particula (51, 47.5699)
+Particula (106.71, 201.973)
+
+Tiempo 13.05
+Particula (376.8, 58.2165)
+Particula (48, 49.0315)
+Particula (108.21, 201.912)
+
+Tiempo 13.1
+Particula (378.9, 60.912)
+Particula (45, 50.5156)
+Particula (109.71, 201.873)
+
+Tiempo 13.15
+Particula (381, 63.63)
+Particula (42, 52.0222)
+Particula (111.21, 201.856)
+
+Tiempo 13.2
+Particula (383.1, 66.3705)
+Particula (39, 53.5513)
+Particula (112.71, 201.862)
+
+Tiempo 13.25
+Particula (385.2, 69.1335)
+Particula (36, 55.1029)
+Particula (114.21, 201.891)
+
+Tiempo 13.3
+Particula (387.3, 71.919)
+Particula (33, 56.677)
+Particula (115.71, 201.942)
+
+Tiempo 13.35
+Particula (389.4, 74.727)
+Particula (30, 58.2736)
+Particula (117.21, 202.016)
+
+Tiempo 13.4
+Particula (391.5, 77.5575)
+Particula (27, 59.8927)
+Particula (118.71, 202.112)
+
+Tiempo 13.45
+Particula (393.6, 80.4105)
+Particula (24, 61.5343)
+Particula (120.21, 202.23)
+
+Tiempo 13.5
+Particula (395.7, 83.286)
+Particula (21, 63.1984)
+Particula (121.71, 202.371)
+
+Tiempo 13.55
+Particula (397.8, 86.184)
+Particula (18, 64.885)
+Particula (123.21, 202.535)
+
+Tiempo 13.6
+Particula (399.9, 89.1045)
+Particula (15, 66.5941)
+Particula (124.71, 202.721)
+
+Tiempo 13.65
+Particula (402, 92.0475)
+Particula (12, 68.3257)
+Particula (126.21, 202.929)
+
+Tiempo 13.7
+Particula (404.1, 95.013)
+t=13.7 -> Choque con pared vertical
+Particula (9, 70.0798)
+Particula (127.71, 203.16)
+
+Tiempo 13.75
+Particula (406.2, 98.001)
+Particula (12, 71.8564)
+Particula (129.21, 203.414)
+
+Tiempo 13.8
+Particula (408.3, 101.012)
+Particula (15, 73.6555)
+Particula (130.71, 203.69)
+
+Tiempo 13.85
+Particula (410.4, 104.045)
+Particula (18, 75.4771)
+Particula (132.21, 203.989)
+
+Tiempo 13.9
+Particula (412.5, 107.1)
+Particula (21, 77.3212)
+Particula (133.71, 204.31)
+
+Tiempo 13.95
+Particula (414.6, 110.178)
+Particula (24, 79.1878)
+Particula (135.21, 204.653)
+
+Tiempo 14
+Particula (416.7, 113.279)
+Particula (27, 81.0769)
+Particula (136.71, 205.019)
+
+Tiempo 14.05
+Particula (418.8, 116.402)
+Particula (30, 82.9885)
+Particula (138.21, 205.408)
+
+Tiempo 14.1
+Particula (420.9, 119.547)
+Particula (33, 84.9226)
+Particula (139.71, 205.819)
+
+Tiempo 14.15
+Particula (423, 122.715)
+Particula (36, 86.8792)
+Particula (141.21, 206.253)
+
+Tiempo 14.2
+Particula (425.1, 125.906)
+Particula (39, 88.8583)
+Particula (142.71, 206.709)
+
+Tiempo 14.25
+Particula (427.2, 129.119)
+Particula (42, 90.8599)
+Particula (144.21, 207.187)
+
+Tiempo 14.3
+Particula (429.3, 132.354)
+Particula (45, 92.884)
+Particula (145.71, 207.688)
+
+Tiempo 14.35
+Particula (431.4, 135.612)
+Particula (48, 94.9306)
+Particula (147.21, 208.212)
+
+Tiempo 14.4
+Particula (433.5, 138.893)
+Particula (51, 96.9997)
+Particula (148.71, 208.758)
+
+Tiempo 14.45
+Particula (435.6, 142.196)
+Particula (54, 99.0913)
+Particula (150.21, 209.326)
+
+Tiempo 14.5
+Particula (437.7, 145.521)
+Particula (57, 101.205)
+Particula (151.71, 209.917)
+
+Tiempo 14.55
+Particula (439.8, 148.869)
+Particula (60, 103.342)
+Particula (153.21, 210.531)
+
+Tiempo 14.6
+Particula (441.9, 152.24)
+Particula (63, 105.501)
+Particula (154.71, 211.167)
+
+Tiempo 14.65
+Particula (444, 155.633)
+Particula (66, 107.683)
+Particula (156.21, 211.826)
+
+Tiempo 14.7
+Particula (446.1, 159.048)
+Particula (69, 109.887)
+Particula (157.71, 212.507)
+
+Tiempo 14.75
+Particula (448.2, 162.486)
+Particula (72, 112.113)
+Particula (159.21, 213.21)
+
+Tiempo 14.8
+Particula (450.3, 165.947)
+Particula (75, 114.363)
+Particula (160.71, 213.936)
+
+Tiempo 14.85
+Particula (452.4, 169.43)
+Particula (78, 116.634)
+Particula (162.21, 214.685)
+
+Tiempo 14.9
+Particula (454.5, 172.935)
+Particula (81, 118.928)
+Particula (163.71, 215.456)
+
+Tiempo 14.95
+Particula (456.6, 176.463)
+Particula (84, 121.245)
+Particula (165.21, 216.249)
