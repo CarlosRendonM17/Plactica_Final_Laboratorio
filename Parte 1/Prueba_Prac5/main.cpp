@@ -16,13 +16,13 @@ int main() {
     sim.agregarParticula(p4);
 
     // --- Obstáculos centrados para que las trayectorias los usen ---
-    sim.agregarObstaculo(Obstaculo(200, 120, 50));  // Centro izquierda
+    sim.agregarObstaculo(Obstaculo(100, 120, 50));  // Centro izquierda
     sim.agregarObstaculo(Obstaculo(320, 100, 50));  // Centro derecha
     sim.agregarObstaculo(Obstaculo(260, 200, 40));  // Bien centrado
     sim.agregarObstaculo(Obstaculo(150, 150, 40));  // Para interacción de P2
 
     // Correr simulación
-    sim.simular(15, 0.05);
+    sim.simular(10, 0.05);
 
     return 0;
 }
